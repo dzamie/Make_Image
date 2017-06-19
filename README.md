@@ -4,20 +4,20 @@
 Make_Image generates an image from the byte information of a given file,
 and can reverse the process, creating a file from a supplied image.
 
-    - To submit bug reports or feature requests, or to contribute to the code
-      directly, visit the GitHub project page:
-      [placeholder]
+* To submit bug reports or feature requests, or to contribute to the code
+  directly, visit the GitHub project page:
+  (https://github.com/dzamie/Make_Image/)
 
 ## Requirements
 ---------------
 
 This script requires the following:
 
-    - Python 3.6.0 (http://www.python.org/)
-        - and included modules `argparse` and `math`
-        - other versions not tested
-    - Pillow module 4.0.0 (http://python-pillow.org/)
-        - other versions not tested
+* Python 3.6.0 (http://www.python.org/)
+  * and included modules `argparse` and `math`
+  * other versions not tested
+* Pillow module 4.0.0 (http://python-pillow.org/)
+  * other versions not tested
 
 ## Troubleshooting/FAQ
 ----------------------
@@ -44,9 +44,9 @@ A: Please ensure you have checked the following, then raise an Issue on the
    GitHub project page. Include Python and Pillow version, as well as the
    filetype you are trying to convert to and from.
 
-    - You have not mistyped the input image file or the output filetype.
-    - You have not made any undesired changes to the image before conversion.
-    - Any changes made to the image would not corrupt the resulting file.
+* You have not mistyped the input image file or the output filetype.
+* You have not made any undesired changes to the image before conversion.
+* Any changes made to the image would not corrupt the resulting file.
 
 Q: The tool throws a KeyError, what happened?
 
