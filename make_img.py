@@ -26,7 +26,6 @@ def tup_to_bytes(input):
 			out.append(0)
 		else:
 			out.append(int(16*(r/17) + (g/17)))
-	print(str(out))
 	return bytearray(out)
 
 def img_to_bin():
